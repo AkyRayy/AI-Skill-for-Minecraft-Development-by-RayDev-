@@ -1,6 +1,6 @@
 <div align="center">
 
-# Minecraft Plugin Craft
+# Anti-Slop Rules
 
 **Инженерный свод правил для разработки Minecraft-плагинов**
 *An engineering rulebook for building Minecraft plugins*
