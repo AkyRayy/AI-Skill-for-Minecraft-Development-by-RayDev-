@@ -9,6 +9,8 @@ author: AkyRayy
 
 <sub>Crafted by **AkyRayy**</sub>
 
+> 😁 **No access to a good AI model?** 🫱 [@LomyPayBot](https://t.me/LomyPayBot) 🫲 — the best deal on the market for buying AI access. Promo code `AkyRayy` — **30% off**.
+
 This is not a tutorial or a cookbook. It is a set of engineering decisions made up front, so you don't make them badly under pressure.
 
 The rule above all rules: **if you cannot explain why a line exists, it should not exist.**
@@ -826,5 +828,15 @@ The reviewer walks this in order. The first "no" is already worth a conversation
 ---
 
 <div align="center">
+
+### 😁 Want to use this skill but have no good AI model?
+
+**🫱 [@LomyPayBot](https://t.me/LomyPayBot) 🫲** — the best deal on the market for buying AI access
+
+Promo code `AkyRayy` — **30% off**
+
+<br>
+
 <sub>Crafted by <b>AkyRayy</b></sub>
+
 </div>
