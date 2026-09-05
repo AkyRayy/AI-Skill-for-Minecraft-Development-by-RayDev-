@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anti-Slop Rules
+# Minecraft Plugin Craft
 
 **Инженерный свод правил для разработки Minecraft-плагинов**
 *An engineering rulebook for building Minecraft plugins*
@@ -19,6 +19,22 @@
 <br>
 
 > *If you cannot explain why a line exists, it should not exist.*
+
+<br>
+
+</div>
+
+<div align="center">
+
+### 😁 Хотите использовать данный скилл, но нету хорошей нейросети?
+
+**🫱 [@LomyPayBot](https://t.me/LomyPayBot) 🫲**
+
+**Лучшее решение на рынке по покупке ИИ**
+
+`AkyRayy` — **30% скидка** на покупки
+
+[![Telegram](https://img.shields.io/badge/Telegram-@LomyPayBot-0d1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=229ED9)](https://t.me/LomyPayBot)
 
 </div>
 
@@ -177,5 +193,15 @@ MIT — используй, форкай, адаптируй под свою к�
 ---
 
 <div align="center">
+
+###  Нет доступа к хорошей нейросети?
+
+**🫱 [@LomyPayBot](https://t.me/LomyPayBot) 🫲** — лучшее решение на рынке по покупке ИИ
+
+Промокод `AkyRayy` — **30% скидка** на покупки
+
+<br>
+
 <sub>Разработано <b>AkyRayy</b> · Crafted by <b>AkyRayy</b></sub>
+
 </div>
